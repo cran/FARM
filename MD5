@@ -1,0 +1,10 @@
+e3ef9487ee6ef3097c7beac381813cbf *DESCRIPTION
+57c537b46587d3351078e3ec933b75ee *NAMESPACE
+f914c266e673f42e139c2285c5affae7 *R/farm.R
+d68091298a293eb56d4e241a268f0dce *R/farm.dist.R
+559d753ca6d70d86ef4599e104297912 *R/tw.decomp.R
+da4971cf03c56fc6e8bec97f49975a0d *man/farm.Rd
+157ebb22f2b50fc56a3f6a8e16f56b11 *man/farm.dist.Rd
+9227209794a8d347e56a9303a4bab392 *man/farm.mean.p.Rd
+e59a30a02735a8c1cef22cb1eedc5802 *man/farm.slm.f.Rd
+9c5e13bb9d20a9fb165ed0e87e7e22a7 *man/tw.decomp.Rd

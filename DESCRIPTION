@@ -1,0 +1,18 @@
+Package: FARM
+Title: Forward Angular Relevance Measure
+Version: 0.1.5.15
+Authors@R: 
+    person("Ramón", "Christen", , "hiroshima@bluewin.ch", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-3963-0785"))
+Description: The original implementation of the Forward Angular Relevance Measure (FARM). The algorithm relies on a forward alignment approach for compared time series based on the dynamic time warping (DTW) principle. It considers the differences between data point as source in a combined distance metric that is used for series alignment. The algorithm returns a global and a series of local relevance measures relying on correlation coefficients. A normalization of time series is not part of the algorithm but recommended for best results. The FARM method is introduced in: Christen et al. (2023) <doi:10.48550/arXiv.2304.11028>.
+License: GPL-3
+Encoding: UTF-8
+Imports: dplyr, stats, utils
+Config/roxygen2/version: 8.1.0
+NeedsCompilation: no
+Packaged: 2026-09-22 09:56:28 UTC; prypjat
+Author: Ramón Christen [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-3963-0785>)
+Maintainer: Ramón Christen <hiroshima@bluewin.ch>
+Repository: CRAN
+Date/Publication: 2026-09-30 12:00:02 UTC
